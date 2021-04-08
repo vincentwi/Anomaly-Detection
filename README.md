@@ -1,6 +1,5 @@
-# FML Final Project 
+# Anomaly Detection
 
-This repository contains all code that was used for the final project created during the class of Foundation of Machine Learning of the Master DSBA at CentraleSupélec.
 
 We trained a CNN and different variations of autoencoders. They can be found in their respective folders. 
 
